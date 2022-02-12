@@ -1,5 +1,5 @@
 ### Hi there, I'm Alphan 👋
-
+I am a Computer Engineering student at Bilkent University.
 
 <!--
 **alphantulukcu/alphantulukcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
